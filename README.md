@@ -1,1 +1,1 @@
-Company-project using SQL
+DataBase of Company System
